@@ -63,7 +63,7 @@ while($row = $res->fetchRow())  {
 		if(DB::IsError($check)) {
 			echo "Can not remove column ".$row[0].": " . $check->getMessage() .  "<br>";  //not fatal error
 		} else {
-			print 'Removed unused column '.$row[0].' from trunkbalance table.<br>';
+			print 'Removed unused column '.$row[0].' from '. $tablename.' table.<br>';
 		}
 	} 
 }
