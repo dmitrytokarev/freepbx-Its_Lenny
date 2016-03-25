@@ -6,3 +6,8 @@ This is a FreePBX module that locally hosts an instance of the famous It's Lenny
 Aug 13, 2013
 
 Currently this module is based on the POSSA module, the Lenny Blacklist Mod. It works but will conflict with that module.
+
+http://toao.net/595-lenny
+https://soylentnews.org/article.pl?sid=15/11/20/0047202
+https://freeswitch.org/
+The best call scenario: https://youtu.be/vcCa59p0860
